@@ -1,27 +1,30 @@
-# LifeCycle
+# Módulo Explorando o Angular Framework
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+## Aula: LifeCycle Hooks Angular
 
-## Development server
+## Conteúdo:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Preparando Ambiente Local
+- Criar componentes de maneira local
+- Configurações
 
-## Code scaffolding
+### Angular CLI
+- Instalar o Angular CLI
+- Erro do NG PS1 para liberar execução de scripts
+- NG
+- NG New: criando um projeto Angular
+- Estrutura de arquivos locais
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Introdução de Ciclo de Vida de Componente
+- Ciclo Componente
+- NG Generate: criando um novo componente
+- Entendendo o conceito de ciclo de vida
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Momentos de Ciclo de Vida
+- Entendendo o OnInit
+- Os 8 hooks de LifeCycle Hooks
+- OnChanges
+- DoCheck e sua ordem de execução
+- Sub eventos do DoCheck
+- A ordem DoCheck, Content e View
+- OnDestroy
