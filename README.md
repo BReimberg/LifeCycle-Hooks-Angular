@@ -1,4 +1,4 @@
-# Módulo Explorando o Angular Framework
+# Módulo Explorando o Angular Framework <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
 ## Aula: LifeCycle Hooks Angular
 
